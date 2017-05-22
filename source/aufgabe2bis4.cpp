@@ -67,6 +67,6 @@ int main()
 	//		z = *it;
 	//	}
 	//	unsigned r = map[z];
-	//cout << "Zahl: " << z << "Häufigkeit" << r << endl;
+	//std::cout << "Zahl: " << z << "Häufigkeit" << r << std::endl;
 	//}
 }
