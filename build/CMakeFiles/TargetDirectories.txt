@@ -1,0 +1,7 @@
+/home/cewo1862/Git/programmiersprachen-aufgabenblatt-3/build/CMakeFiles/rebuild_cache.dir
+/home/cewo1862/Git/programmiersprachen-aufgabenblatt-3/build/CMakeFiles/edit_cache.dir
+/home/cewo1862/Git/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/rebuild_cache.dir
+/home/cewo1862/Git/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/example.dir
+/home/cewo1862/Git/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/edit_cache.dir
+/home/cewo1862/Git/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/aufgabe5.dir
+/home/cewo1862/Git/programmiersprachen-aufgabenblatt-3/build/source/CMakeFiles/aufgabe2bis4.dir
